@@ -220,4 +220,4 @@ Qustodio is available as a full free version, offering all features and regular 
 Don’t wait any longer! Download Qustodio today and empower your family with the tools needed for a safer online experience!
 
 ---
-**Last updated:** 2026-09-26 05:53:04 UTC
+**Last updated:** 2026-09-26 10:23:00 UTC
